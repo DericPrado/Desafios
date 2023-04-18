@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DecodificadorDeCodigoMorse/1.0.0": {
+        "runtime": {
+          "DecodificadorDeCodigoMorse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DecodificadorDeCodigoMorse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

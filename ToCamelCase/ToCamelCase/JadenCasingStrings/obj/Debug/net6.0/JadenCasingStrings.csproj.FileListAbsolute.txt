@@ -1,0 +1,5 @@
+D:\OneDrive - GRUPO BIT\DADOS\Documentos\CursosAlura\Exercicios\Desafios\ToCamelCase\ToCamelCase\JadenCasingStrings\obj\Debug\net6.0\JadenCasingStrings.csproj.AssemblyReference.cache
+D:\OneDrive - GRUPO BIT\DADOS\Documentos\CursosAlura\Exercicios\Desafios\ToCamelCase\ToCamelCase\JadenCasingStrings\obj\Debug\net6.0\JadenCasingStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - GRUPO BIT\DADOS\Documentos\CursosAlura\Exercicios\Desafios\ToCamelCase\ToCamelCase\JadenCasingStrings\obj\Debug\net6.0\JadenCasingStrings.AssemblyInfoInputs.cache
+D:\OneDrive - GRUPO BIT\DADOS\Documentos\CursosAlura\Exercicios\Desafios\ToCamelCase\ToCamelCase\JadenCasingStrings\obj\Debug\net6.0\JadenCasingStrings.AssemblyInfo.cs
+D:\OneDrive - GRUPO BIT\DADOS\Documentos\CursosAlura\Exercicios\Desafios\ToCamelCase\ToCamelCase\JadenCasingStrings\obj\Debug\net6.0\JadenCasingStrings.csproj.CoreCompileInputs.cache
